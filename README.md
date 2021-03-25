@@ -1,2 +1,2 @@
 # ConversorDeMoedas
- Conversor de moeda (Eurou, Dolar, Real) em tempo real.
+ Conversor de moeda (Euro, Dolar, Real) em tempo real.
